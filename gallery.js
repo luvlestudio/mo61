@@ -52,16 +52,16 @@ window.onload = () => {
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo61.luvle.co.kr",
-          webUrl: "https://mo61.luvle.co.kr",
+          mobileWebUrl: "https://mo61.luvle.kr",
+          webUrl: "https://mo61.luvle.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo61.luvle.co.kr",
-            webUrl: "https://mo61.luvle.co.kr",
+            mobileWebUrl: "https://mo61.luvle.kr",
+            webUrl: "https://mo61.luvle.kr",
           },
         },
       ],
@@ -80,7 +80,7 @@ window.onload = () => {
 
   // const btnShareFb = document.querySelector(".shareFb");
   // btnShareFb.addEventListener("click", () => {
-  //   const pageUrl = "mo2.luvle.co.kr/";
+  //   const pageUrl = "mo2.luvle.kr/";
   //   window.open(`http://www.facebook.com/sharer/sharer.php?u=${pageUrl}`);
   // });
 
